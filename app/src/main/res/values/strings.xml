@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Maminasata Bus</string>
+    <string name="username">Username</string>
+    <string name="pass">Password</string>
+    <string name="login">Login</string>
+    <string name="title_activity_login">Login</string>
+
+    <string name="max_speed">Max Speed</string>
+    <string name="average_speed">Average Speed</string>
+    <string name="distance">Distance</string>
+    <string name="time">Time</string>
+    <string name="accuracy">Accuracy</string>
+    <string name="satellite">Satellites</string>
+
+    <string name="a">Di Halte</string>
+    <string name="b">Jalan</string>
+
+    <string name="waiting_for_fix">Waiting for gps fix …</string>
+    <string name="gps_disabled">Gps disabled</string>
+    <string name="please_enable_gps">In order to use this app you need the gps to be enabled.</string>
+
+    <string name="running">Route in process…</string>
+    <string name="notification">Max Speed : %1$s, CurrentSpeed : %2$s.</string>
+</resources>

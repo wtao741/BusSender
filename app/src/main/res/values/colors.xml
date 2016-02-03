@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#607D8B</color>
+    <color name="colorPrimaryDark">#607D8B</color>
+    <color name="colorAccent">#607D8B</color>
+
+    <drawable name="normal">#607D8B</drawable>
+    <drawable name="pressed">#455A64</drawable>
+
+    <color name="grey_lighter">#E0E0E0</color>
+    <color name="grey_light">#9E9E9E</color>
+    <color name="grey_dark">#424242</color>
+    <color name="red">#E74C3C</color>
+    <color name="red_dark">#C0392B</color>
+    <color name="blue_light">#03A9F4</color>
+    <color name="blue">#1E88E5</color>
+    <color name="blue_dark">#01579B</color>
+    <color name="white">#FFF</color>
+    <color name="emerald">#2ECC71</color>
+    <color name="emerald_dark">#27AE60</color>
+</resources>
